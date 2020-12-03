@@ -1,2 +1,2 @@
 # Automobile-price-prediction
-This key features which drive the price of the  automobile is discerned by linear regression algorithm using sci-kit learn library.
+In this notebook key features which drive the price of the automobile are discerned by using linear regression algorithm from sci-kit learn library in python.
